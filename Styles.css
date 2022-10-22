@@ -1,4 +1,10 @@
-.Cabecera {
+.Cabecera, .donde {
+    background: url(../images/donde-estamos.png) no-repeat;
+    background-position: 0 0;
+    height: 100px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
    font-size: large 10px; 
    color: crimson;background-color: bisque;
    border-radius: 10px;    
